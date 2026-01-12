@@ -32,5 +32,9 @@ On Linux, you may also need a clipboard backend:
 
 ---
 
+## Run in a virtual environment & install pyperclip
 
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install pyperclip
 

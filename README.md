@@ -6,6 +6,8 @@ text in real time.
 The script watches for changes to the clipboard, keeps a history of copied
 strings, and optionally prints or logs them as they occur.
 
+> **THIS IS EXCLUSIVELY FOR EDUCATIONAL PURPOSES. THERE ARE SIMILAR AND MORE ADVANCED TOLLS AVAILABLE**
+
 > **Privacy note:** This script captures everything you copy, including
 > potentially sensitive information (passwords, tokens, private text). Use responsibly.
 
